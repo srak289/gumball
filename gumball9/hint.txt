@@ -1,0 +1,1 @@
+HINT: Implement Base64 decoding, then, XOR the key against the resulting string
